@@ -1,4 +1,4 @@
-##  Here is some Images of  App
+##  Here are some Images of this App
 
 ![](images/HomePage1.png)
 ![](images/HomePage2.png)
