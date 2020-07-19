@@ -1,0 +1,17 @@
+.Center {
+  width: 90%;
+  height: 300px;
+
+  margin: auto;
+  padding: 2%;
+
+  top: 200px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.btn-bot {
+  position: absolute;
+  bottom: 0px;
+}
