@@ -7,13 +7,13 @@ import { Hidden } from "@material-ui/core";
 const Main = () => {
   return (
     <div>
-      {/* <Hidden only={["md", "sm","lg", "xl"]}> */}
-        {/* <TopDrawer></TopDrawer> */}
-      {/* </Hidden> */}
-      {/* <Hidden only="xs">
-       
-      </Hidden> */}
+      <Hidden only={["md", "sm","lg", "xl"]}> 
+         <TopDrawer></TopDrawer> 
+       </Hidden> 
+       <Hidden only="xs">
        <DrawerLeft></DrawerLeft>
+      </Hidden> 
+       
 
       <Footer></Footer>
     </div>
