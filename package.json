@@ -18,7 +18,7 @@
     "react-filepond": "^7.0.1",
     "react-payment-card-component": "^0.2.1",
     "react-responsive-carousel": "^3.2.7",
-    "react-router-dom": "^5.1.2",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "3.4.1"
    
   },
